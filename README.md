@@ -40,6 +40,9 @@ and [Spring Security](https://spring.io/projects/spring-security) to secure the 
 2. run the main method in VaadinDemoApplication class, or use the run configuration together with the project.
 3. The run configuration should open the browser and navigate to `http://localhost:8080/app` automatically if you're
    using IntelliJ IDEA. If not, you can open the browser and navigate to `http://localhost:8080/app` manually.
+4. You can log in with the following credentials: (two users have no difference in permissions)
+    - Username: `frank`, Password: `password`
+    - Username: `admin`, Password: `password`
 
 ## Tips
 
